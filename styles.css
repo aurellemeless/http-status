@@ -1,0 +1,9 @@
+.box {
+    overflow: hidden;
+    background-color: blueviolet;
+    width: 500px;
+    height: 500px;
+    transform: translateY(200px);
+    transition: transform 3s linear;
+    animation: 5s linear ease-in;
+ }
